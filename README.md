@@ -24,6 +24,9 @@ Modify your `.stylelintrc` file to load the plugin and enable the rules you want
 
 ## Changelog
 
+#### 1.0.2
+- Added github repo info in README
+
 #### 1.0.1
 - Fix example in README
 

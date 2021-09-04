@@ -1,6 +1,6 @@
 {
   "name": "@lair60/stylelint-plugin-filenames",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Stylelint plugin for consistent filenames.",
   "peerDependencies": {
     "stylelint": "^13.0.0"
@@ -16,8 +16,8 @@
   "keywords": [
     "stylelint",
     "path",
-	"stylelintplugin",
-	"stylelint-plugin",
-	"filename"
+    "stylelintplugin",
+    "stylelint-plugin",
+    "filename"
   ]
 }
