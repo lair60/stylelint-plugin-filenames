@@ -1,0 +1,23 @@
+{
+  "name": "@lair60/stylelint-plugin-filenames",
+  "version": "1.0.1",
+  "description": "Stylelint plugin for consistent filenames.",
+  "peerDependencies": {
+    "stylelint": "^13.0.0"
+  },
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/lair60/stylelint-plugin-filenames.git"
+  },
+  "author": "Luis Inga <lair60@yahoo.es>",
+  "homepage": "https://github.com/lair60/stylelint-plugin-filenames",
+  "license": "MIT",
+  "keywords": [
+    "stylelint",
+    "path",
+	"stylelintplugin",
+	"stylelint-plugin",
+	"filename"
+  ]
+}
